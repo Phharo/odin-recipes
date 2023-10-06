@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first project doing the Odin Project. I am excited and nervous at the same time. But this project will show my understanding of HTML. To my understanding I am creating a recipe website with current skills of HTML to create a functioning website that will show different recipes and be able to link my webpages together. I will come back after I finish the project and self reflect on what I learned and be able to show that I have the skills to do this.
